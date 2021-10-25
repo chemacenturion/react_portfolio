@@ -1,1 +1,32 @@
-container__about
+.container__about {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.container__about-item-1 {
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid black;
+    margin: 10rem;
+}
+
+.container__about-item-2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem 2rem 2rem 0rem;
+    margin: 10rem;
+    margin-top: 15rem;
+    margin-left: 0rem;
+}
+
+.bio-photo {
+    vertical-align: middle;
+    height: auto;
+    border-radius: 50%;
+}
+
+.bio-text {
+    font-weight: 400;
+    font-style: oblique;
+}

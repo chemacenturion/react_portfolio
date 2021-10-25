@@ -2,9 +2,14 @@ import React from 'react'
 
 const Resume = () => {
     return (
-        <div>
-            <h1>Resume</h1>
-        </div> 
+        <container className="container__resume">
+            <div className="container__resume-item-1">
+                <h1>Front-end </h1>
+            </div>
+            <div className="container__resume-item-2">
+                
+            </div>
+        </container>
     )
 }
 
