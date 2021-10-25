@@ -1,0 +1,23 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+    background-color: black;
+    color: white;
+}
+
+.header {
+    padding: 25px;
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+    font-style: oblique;
+    font-weight: 500;
+}
+
+.linkStyles {
+    display: inline-block;
+    list-style-type: none;
+    padding: 2em;
+    text-decoration: none;
+}
