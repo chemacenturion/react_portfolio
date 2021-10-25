@@ -1,6 +1,7 @@
 @import "footer.css";
 @import "navbar.css";
 @import "about.css";
+@import "resume.css";
 
 *, *::before, *::after {
     box-sizing: border-box;
