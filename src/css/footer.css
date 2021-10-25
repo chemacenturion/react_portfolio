@@ -5,13 +5,14 @@
 }
 
 .footer__footer {
-    background: linear-gradient( rgb(0, 0, 0), rgb(100, 100, 100));
+    background: linear-gradient( rgb(161, 161, 161), white);
     color: white;
     font-size: x-large;
     display: inline-flex;
     justify-content: center;
     width: 100vw;
-    padding: 1% 1% .5% 1%;
+    height: 6rem;
+    padding: 1.5% 1% 1% 1%;
 }
 
     .avatar1 {
