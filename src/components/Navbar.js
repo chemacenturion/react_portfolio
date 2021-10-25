@@ -1,5 +1,4 @@
 import React from 'react'
-import helmet from '../images/helmet.png'
 
 const Navbar = ({ currentPage, handlePageChange }) => {
 
