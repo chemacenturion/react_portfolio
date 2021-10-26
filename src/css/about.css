@@ -1,10 +1,11 @@
 .container__about-portrait {
-    border-right: black 1px solid;
-    display: flex;
+    padding: 5rem 0rem;
 }
 
 .container__about-paragraph {
+    padding: 5rem 0rem;
     background-color: white;
+    border-left: black 1px solid;
 }
 
 .bio-photo {
@@ -27,5 +28,14 @@
 
     .container__about-portrait {
         border-right: 0;
+        padding: 1em 0em;
+    }
+
+    .container__about-paragraph {
+        padding: 1rem 1rem;
+        background-color: white;
+        border-top: black 1px solid;
+        border-left: 0px;
+        margin: 0em 1em;
     }
 }

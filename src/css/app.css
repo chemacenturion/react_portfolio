@@ -3,4 +3,9 @@
 @import "about.css";
 @import "resume.css";
 @import "contact.css";
-
+  
+html, 
+body {
+    padding: 0;
+    margin: 0;
+}
