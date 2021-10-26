@@ -5,7 +5,7 @@ import projects from "../images/projects.json";
 
 function Portfolio() {
   return (
-      <div className="row row-cols-1 row-cols-md-2 g-4 mt-2">
+      <div className="row row-cols-1 row-cols-md-3 g-4 mt-2">
         <Project
           name={projects[0].name}
           image={projects[0].image}
