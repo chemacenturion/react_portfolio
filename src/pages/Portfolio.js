@@ -7,7 +7,7 @@ function Portfolio() {
   return (
     <div>
       <div className="container portfolio-container">
-        <h1 className="title">Projects List</h1>
+        <h1 className="title">Portfolio</h1>
         <div className="row">
           <Project
             name={projects[0].name}
@@ -21,20 +21,22 @@ function Portfolio() {
             project={projects[1].project}
             location={projects[1].location}
           />
+        </div>
+        <div className="row">
           <Project
             name={projects[2].name}
             image={projects[2].image}
             project={projects[2].project}
             location={projects[2].location}
           />
-        </div>
-        <div className="row">
           <Project
             name={projects[3].name}
             image={projects[3].image}
             project={projects[3].project}
             location={projects[3].location}
           />
+        </div>
+        <div className="row">
           <Project
             name={projects[4].name}
             image={projects[4].image}

@@ -4,12 +4,9 @@ import React from "react";
 
 function Project(props) {
     return (
-        <div className="card port-card">
-            <div className="img-container">
-
-                <img alt={props.name} src={props.image} />
-            </div>
-            <div className="content">
+        <div className="card bg-dark text-white">
+            <img src={props.image} className="card-img" alt={props.name} />
+            <div className="card-img-overlay">
                 <ul>
                     <li>
                         <strong>Name:</strong> {props.name}
@@ -20,10 +17,8 @@ function Project(props) {
                     <li>
                         <strong>Demo:</strong> {props.location}
                     </li>
-
                 </ul>
             </div>
-
         </div>
     );
 }
