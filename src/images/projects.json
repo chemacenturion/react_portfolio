@@ -4,41 +4,41 @@
         "name": "NFL Bets",
         "image": "https://github.com/aungy5/NFL_Bets/raw/main/public/images/NFLBETS.gif?raw=true",
         "project":"Group Project 2",
-        "location": "https://vast-eyrie-51403.herokuapp.com/"
+        "deployment": "https://vast-eyrie-51403.herokuapp.com/"
     },
     {
         "id": 2,
         "name":"Search FORE Golf",
         "image":"https://github.com/chemacenturion/Search-Fore-Golf/raw/main/assets/Images/SearchForeGolf.gif",
         "project":"Group Project 1",
-        "location":"https://chemacenturion.github.io/Search-Fore-Golf/"
+        "deployment":"https://chemacenturion.github.io/Search-Fore-Golf/"
     },
     {
         "id": 3,
         "name": "Just Another Text Editor",
         "image":"https://github.com/chemacenturion/Text_Editor/raw/main/client/src/images/JATE.gif?raw=true",
         "project":"IndexDB Homework",
-        "location":"https://secure-everglades-37067.herokuapp.com/"
+        "deployment":"https://secure-everglades-37067.herokuapp.com/"
     },
     {
         "id": 4,
         "name": "Fitness Tracker",
         "image":"https://github.com/chemacenturion/Fitness_Tracker/raw/main/public/images/Fitness_Tracker.gif?raw=true",
         "project":"MongoDB Homework",
-        "location":"https://dry-harbor-98999.herokuapp.com/?id=6161928193b6180016a78bcb"
+        "deployment":"https://dry-harbor-98999.herokuapp.com/?id=6161928193b6180016a78bcb"
     },
     {
         "id": 5,
         "name":"Work Day Scheduler",
         "image":"https://github.com/chemacenturion/Work-Day-Scheduler/raw/main/Assets/Untitled_%20Jul%2030,%202021%209_34%20PM.gif?raw=true",
         "project":"localStorage Homework",
-        "location":"https://chemacenturion.github.io/Work-Day-Scheduler/"
+        "deployment":"https://chemacenturion.github.io/Work-Day-Scheduler/"
     },
     {
         "id": 6,
         "name": "Password Generator",
         "image":"https://github.com/chemacenturion/Password-Generator/raw/main/Assets/Password%20Generator.gif?raw=true",
         "project":"Password Generating Homework",
-        "location":"https://chemacenturion.github.io/Password-Generator/"
+        "deployment":"https://chemacenturion.github.io/Password-Generator/"
     }
 ]
