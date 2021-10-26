@@ -1,0 +1,31 @@
+.contact__info {
+    padding-top: 6rem;
+    text-align: center;
+}
+
+.contact__container {
+    padding: 10rem;
+}
+
+.contact__container-form {
+    background-color: whitesmoke;
+}
+
+.contact__container-form-header {
+    text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+    .contact__container {
+        padding: 1rem;
+    }
+
+    .contact__info {
+        text-align: center;
+        padding: 2rem 0rem;
+    }
+
+    .contact_text {
+        font-size: small;
+    }
+}
