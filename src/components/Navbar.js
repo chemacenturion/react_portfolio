@@ -5,7 +5,7 @@ const Navbar = ({ currentPage, handlePageChange }) => {
   return (
     <nav className="navigation">
       <header className="header">José María Centurión</header>
-      <ul>
+      <ul className="navigation__links">
         <a className="linkStyles" href="#About"
           onClick={() => handlePageChange('About')}><li className={currentPage === "About" ? "navigationStylesActive" : "navigationStyles"}>About</li></a>
         <a className="linkStyles" href="#Portfolio"

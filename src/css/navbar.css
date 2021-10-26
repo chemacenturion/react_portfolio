@@ -7,7 +7,7 @@
 }
 
 .header {
-    padding: 25px;
+    padding: 1em;
     color: white;
     font-size: xx-large;
     font-style: italic;
@@ -35,6 +35,29 @@
 .linkStyles {
     display: inline-block;
     list-style-type: none;
-    padding: 2em;
+    padding: 2rem;
     text-decoration: none;
+}
+
+@media only screen and (max-width: 1000px) {
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+    background-color: black;
+    color: white;
+}
+  
+  .header {
+      color: white;
+      font-size: large;
+      font-style: italic;
+      font-style: oblique;
+      font-weight: 400;
+      vertical-align: middle;
+  }
+
+  .navigation__links {
+    display: none;
+  }
 }
