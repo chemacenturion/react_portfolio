@@ -6,8 +6,7 @@ import projects from "../images/projects.json";
 function Portfolio() {
   return (
     <div>
-      <div className="container">
-        <h1 className="title">Portfolio</h1>
+      <div className="container bg-white">
         <div className="row">
           <div className="col-4">
             <Project
