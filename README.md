@@ -16,7 +16,7 @@ This is the final portfolio build of the bootcamp utilizing react.js.
 
 ## Deployment
 
-[Click HERE!](https://github.com/chemacenturion/react_portfolio)
+[Click HERE for deployed application!](https://chemacenturion.github.io/react_portfolio/)
 
 ## Installation
 
