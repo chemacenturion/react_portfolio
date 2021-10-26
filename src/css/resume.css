@@ -29,8 +29,8 @@
 
 .content {
     position: absolute;
-    top: 45%;
-    right: 15%;
+    top: 50%;
+    right: 14%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-transform: uppercase;

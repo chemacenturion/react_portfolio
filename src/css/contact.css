@@ -1,0 +1,10 @@
+.container,
+.border {
+    margin-top: 50px;
+    width: 50%;
+    background-color: darkgray;
+}
+
+.row {
+    margin: 25px 85px 75px 100px;
+}

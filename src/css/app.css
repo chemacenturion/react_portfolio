@@ -2,6 +2,7 @@
 @import "navbar.css";
 @import "about.css";
 @import "resume.css";
+@import "contact.css";
 
 *, *::before, *::after {
     box-sizing: border-box;

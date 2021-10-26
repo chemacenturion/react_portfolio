@@ -4,7 +4,7 @@ import resumePDF from '../../src/Resume.pdf'
 
 const Resume = () => {
     return (
-        <container className="container__resume">
+        <div className="container__resume">
             <div className="container__resume-item-1">
                 <h4>Front-end Proficiencies</h4>
                 <ul>
@@ -28,14 +28,14 @@ const Resume = () => {
                 </ul>
             </div>
             <div className="container__resume-item-2">
-                <img src={resume} className="resume" />
+                <img src={resume} className="resume" alt="resume"/>
                     <div className="overlay">
                         <div className="content">
                         <a href={resumePDF} className="modal__resume-link" target="_blank" rel="noreferrer">Download PDF</a>
                         </div>
                     </div>
             </div>
-        </container>
+        </div>
     )
 }
 
