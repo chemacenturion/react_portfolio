@@ -4,11 +4,12 @@
 @import "resume.css";
 @import "contact.css";
 @import "project.css";
+@import "header.css";
   
 html, 
 body {
     padding: 0px;
     margin: 0px;
     margin-bottom: 6rem;
-    overflow-x: hidden; 
+    overflow-x: hidden;
 }

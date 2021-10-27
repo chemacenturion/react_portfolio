@@ -1,5 +1,6 @@
 .project__card-body {
     background-color: whitesmoke;
+    z-index: 1;
 }
 
 .project__card-details {
