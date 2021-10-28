@@ -3,7 +3,7 @@ import me from '../images/me.jpg'
 
 const About = () => {
     return (
-        <div className="container mt-5 container__about">
+        <div className="container container__about">
             <div className="row container__about-row">
                 <div className="col container__about-portrait">
                     <img className="bio-photo" src={me} alt="portrait"/>
