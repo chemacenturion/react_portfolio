@@ -2,7 +2,7 @@
 
 ## React Portfolio ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-![Fitness_Tracker](https://github.com/chemacenturion/Fitness_Tracker/blob/main/public/images/Screenshot%20(171).png?raw=true)
+![React Portfolio SS](https://github.com/chemacenturion/react_portfolio/blob/main/src/images/RPSS.png?raw=true)
 
 ## Description
 This is the final portfolio build of the bootcamp utilizing react.js.
@@ -20,7 +20,7 @@ This is the final portfolio build of the bootcamp utilizing react.js.
 
 [Click HERE for deployed application!](https://chemacenturion.github.io/react_portfolio/)
 
-![Fitness_Tracker GIF](https://github.com/chemacenturion/Fitness_Tracker/blob/main/public/images/Fitness_Tracker.gif?raw=true)
+![React Portfolio GIF](https://github.com/chemacenturion/react_portfolio/blob/main/src/images/RP.gif?raw=true)
 
 ## Installation
 
