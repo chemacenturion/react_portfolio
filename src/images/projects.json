@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Fitness Tracker",
-        "image":"https://github.com/chemacenturion/react_portfolio/blob/main/src/images/fitnessTracker.gif?raw=true",
+        "image":"https://github.com/chemacenturion/react_portfolio/blob/main/src/images/fitness%20tracker.gif?raw=true",
         "project":"MongoDB Homework",
         "deployment":"https://dry-harbor-98999.herokuapp.com/?id=6161928193b6180016a78bcb",
         "repository": "https://github.com/chemacenturion/Fitness_Tracker"
