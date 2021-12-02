@@ -1,6 +1,14 @@
 [
     {
         "id": 1,
+        "name": "Golf Guidance",
+        "image":"https://github.com/chemacenturion/Golf_Guidance/raw/main/client/src/images/final2.gif?raw=true",
+        "project":"Final Project",
+        "deployment":"https://golf-guidance.herokuapp.com/",
+        "repository": "https://github.com/chemacenturion/Golf_Guidance"
+    },
+    {
+        "id": 2,
         "name": "NFL Bets",
         "image": "https://github.com/chemacenturion/react_portfolio/blob/main/src/images/nflBets.gif?raw=true",
         "project":"Group Project 2",
@@ -8,7 +16,7 @@
         "repository": "https://github.com/chemacenturion/NFL_Bets"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Just Another Text Editor",
         "image":"https://github.com/chemacenturion/react_portfolio/blob/main/src/images/jate.gif?raw=true",
         "project":"IndexDB Homework",
@@ -16,7 +24,7 @@
         "repository": "https://github.com/chemacenturion/Text_Editor"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Fitness Tracker",
         "image":"https://github.com/chemacenturion/react_portfolio/blob/main/src/images/fitnessTracker.gif?raw=true",
         "project":"MongoDB Homework",
@@ -24,7 +32,7 @@
         "repository": "https://github.com/chemacenturion/Fitness_Tracker"
     },
     {
-        "id": 4,
+        "id": 5,
         "name":"Search FORE Golf",
         "image":"https://github.com/chemacenturion/Search-Fore-Golf/raw/main/assets/Images/SearchForeGolf.gif",
         "project":"Group Project 1",
@@ -33,19 +41,11 @@
 
     },
     {
-        "id": 5,
+        "id": 6,
         "name":"Work Day Scheduler",
         "image":"https://github.com/chemacenturion/react_portfolio/blob/main/src/images/workDay.gif?raw=true",
         "project":"localStorage Homework",
         "deployment":"https://chemacenturion.github.io/Work-Day-Scheduler/",
         "repository": "https://github.com/chemacenturion/Work-Day-Scheduler"
-    },
-    {
-        "id": 6,
-        "name": "Password Generator",
-        "image":"https://github.com/chemacenturion/react_portfolio/blob/main/src/images/passwordGenerator.gif?raw=true",
-        "project":"Password Generating Homework",
-        "deployment":"https://chemacenturion.github.io/Password-Generator/",
-        "repository": "https://github.com/chemacenturion/Password-Generator"
     }
 ]
