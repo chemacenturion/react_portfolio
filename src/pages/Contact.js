@@ -31,7 +31,7 @@ const Contact = () => {
                     <div className="contact__info">
                         <h3>Contact Info</h3>
                         <h5 className="contact_text">Phone: <a href="tel:2679024605">(267) 902-4605</a></h5>
-                        <h5 className="contact_text">Email:  <a href = "mailto: centurion.philadelphia@gmail.com">centurion.philadelphia@gmail.com</a></h5>
+                        <h5 className="contact_text">Email:  <a href = "mailto: paraguayandeveloper@gmail.com">paraguayandeveloper@gmail.com</a></h5>
                     </div>
                 </div>
             </div>
