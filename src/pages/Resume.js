@@ -1,6 +1,6 @@
 import React from 'react';
 import resume from '../images/ResumeSS.png'
-import resumePDF from '../../src/'
+import resumePdf from '../../src/resume.pdf'
 const Resume = () => {
     return (
         <div className="container mt-5 container__resume">
@@ -28,7 +28,7 @@ const Resume = () => {
                     </ul>
                 </div>
                 <div className="col container__resume-item-2">
-                    <a href={resumePDF} className="modal__resume-link" target="_blank" rel="noreferrer"><img src={resume} className="resume" alt="resume" /></a>
+                    <a href={resumePdf} className="modal__resume-link" target="_blank" rel="noreferrer"><img src={resume} className="resume" alt="resume" /></a>
                 </div>
             </div>
         </div>
