@@ -1,6 +1,6 @@
 import React from 'react';
 import resume from '../images/ResumeSS.png'
-import resumePDF from '../../src/Resume.pdf'
+import resumePDF from '../Resume.pdf'
 
 const Resume = () => {
     return (
